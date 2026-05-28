@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-28T03:34:45",
+  "last_updated": "2026-05-28T03:35:00",
   "html": {
     "https://web.archive.org/web/20230329161642if_/https://twitter.com/buandeye/status/1641112154417029120": {
       "status": "done",
@@ -23,21 +23,25 @@
   "videos": {},
   "avatars": {
     "https://pbs.twimg.com/profile_images/1335447475159613446/XVALCTdm_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20230329161642_twitter_com_buandeye_status_1641112154417029120.json"
-      ]
+      ],
+      "last_updated": "2026-05-28T03:34:58"
     },
     "https://pbs.twimg.com/profile_images/1604485027839979522/5t07BhAf_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20230329161642_twitter_com_buandeye_status_1641112154417029120.json"
-      ]
+      ],
+      "last_updated": "2026-05-28T03:35:00",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20230329161642if_/https://pbs.twimg.com/profile_images/1604485027839979522/5t07BhAf_normal.jpg",
+      "miss_count": 1
     }
   },
   "media": {
     "20230329161642_twitter_com_buandeye_status_1641112154417029120.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -46,7 +50,7 @@
           "https://pbs.twimg.com/profile_images/1604485027839979522/5t07BhAf_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T03:34:45"
+      "last_updated": "2026-05-28T03:35:00"
     },
     "20220108194035_twitter_com_buandeye_status_1479900863137075202.json": {
       "status": "done",
