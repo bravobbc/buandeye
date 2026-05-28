@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-05-28T03:34:33",
+  "html": {
+    "https://web.archive.org/web/20230329161642if_/https://twitter.com/buandeye/status/1641112154417029120": {
+      "status": "done",
+      "last_updated": "2026-05-28T03:34:26"
+    },
+    "https://web.archive.org/web/20220207042032if_/https://twitter.com/buandeye/status/1490540960941371393": {
+      "status": "done",
+      "last_updated": "2026-05-28T03:34:26"
+    },
+    "https://web.archive.org/web/20210815182718if_/https://twitter.com/buandeye/status/1426973792421638149": {
+      "status": "done",
+      "last_updated": "2026-05-28T03:34:27"
+    },
+    "https://web.archive.org/web/20220108194035if_/https://twitter.com/buandeye/status/1479900863137075202": {
+      "status": "done",
+      "last_updated": "2026-05-28T03:34:33"
+    }
+  },
+  "images": {},
+  "videos": {},
+  "avatars": {
+    "https://pbs.twimg.com/profile_images/1335447475159613446/XVALCTdm_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20230329161642_twitter_com_buandeye_status_1641112154417029120.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/1604485027839979522/5t07BhAf_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20230329161642_twitter_com_buandeye_status_1641112154417029120.json"
+      ]
+    }
+  },
+  "media": {
+    "20230329161642_twitter_com_buandeye_status_1641112154417029120.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/1335447475159613446/XVALCTdm_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1604485027839979522/5t07BhAf_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-05-28T03:34:33"
+    },
+    "20220108194035_twitter_com_buandeye_status_1479900863137075202.json": {
+      "status": "done",
+      "last_updated": "2026-05-28T03:34:33"
+    },
+    "20220207042032_twitter_com_buandeye_status_1490540960941371393.json": {
+      "status": "done",
+      "last_updated": "2026-05-28T03:34:33"
+    },
+    "20210815182718_twitter_com_buandeye_status_1426973792421638149.json": {
+      "status": "done",
+      "last_updated": "2026-05-28T03:34:33"
+    }
+  }
+}
